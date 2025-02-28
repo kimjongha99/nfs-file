@@ -72,6 +72,7 @@ out/
 
 ### VS Code ###
 .vscode/
+application-local.properties
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,python,pycharm+all,java,macos,gradle
